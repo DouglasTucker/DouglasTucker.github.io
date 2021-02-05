@@ -1,3 +1,20 @@
+## Welomc to my website
+
+My name is Douglas Tucker, I'm currently a student at Boise State working towards a Bachelor's degree in Computer Science. In 2011 I recieved a Degree in Physics from Humboldt State University and Spent Serveral years in an education profession teaching the these subjects:
+
+- AP Physics
+- Conceptual Physics
+- Earth Science
+- Math
+- Chemistry
+- Robotics
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DouglasTucker/DouglasTucker.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
