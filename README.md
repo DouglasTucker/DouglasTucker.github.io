@@ -1,6 +1,6 @@
 ## Welomc to my website
 
-My name is Douglas Tucker, I'm currently a student at Boise State working towards a Bachelor's degree in Computer Science. In 2011 I recieved a Degree in Physics from Humboldt State University and Spent Serveral years in an education profession teaching the these subjects:
+My name is Douglas Tucker, I'm currently a student at Boise State working towards a Bachelor's degree in Computer Science. In 2011 I recieved a BS in Physics from Humboldt State University and Spent Serveral years in an education profession teaching the these subjects:
 
 - AP Physics
 - Conceptual Physics
